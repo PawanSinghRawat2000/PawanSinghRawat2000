@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi 👋 My name is Pawan Singh Rawat
+==================================
 
-<!--
-**PawanSinghRawat2000/PawanSinghRawat2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Problem Solver | Web Developer
+------------------------------
 
-Here are some ideas to get you started:
+I love solving DSA problems and learning new Tech. Would love to collaborate on any good ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Portfolio](http://https://me-pawan.netlify.app/)
+* ✉️  You can contact me at [pawansinghrawatis3@gmail.com](mailto:pawansinghrawatis3@gmail.com)
+
+### Skills
+
+
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/PawanSinghRawat2000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
